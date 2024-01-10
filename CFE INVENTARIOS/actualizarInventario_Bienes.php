@@ -1,5 +1,7 @@
 <?php
 
+//Essto es una prueba
+
 require_once 'conexion.php';
 $databaseConnection->exec("SET NAMES utf8");
 try {
